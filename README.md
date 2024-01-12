@@ -18,8 +18,6 @@ The core of our recommendation engine lies in the use of cosine similarity. This
 
 ### Screenshots
 
-Include a few screenshots to showcase the UI and different aspects of your Movie Recommender System.
-
 ![Screenshot 1](/output/Screenshot%202024-01-10%20at%2011.30.44 AM.png)
 *Search page for the movie*
 
