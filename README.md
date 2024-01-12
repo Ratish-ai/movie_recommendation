@@ -27,14 +27,13 @@ The core of our recommendation engine lies in the use of cosine similarity. This
 ![Screenshot 1](/output/Screenshot%202024-01-10%20at%2011.34.42 AM.png)
 *Details of recommended movie*
 
-### Video Demo
-
-[![Movie Recommender System Demo](/output/Screenshot%202024-01-10%20at%2011.30.44 AM.png)](/output/Screen%20Recording%202024-01-10%20at%2011.32.27 AM.mov)
-*Click the image above to watch the demo video.*
-
 ## Model Deployment
 
 Check out the deployed model [here](https://movierecommendation-ratish.streamlit.app/).
+
+## Dataset
+
+Check out the dataset [here](https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies).
 
 ## How to Use
 
